@@ -294,7 +294,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **BitmasterXor**
 - GitHub: [@BitmasterXor](https://github.com/BitmasterXor)
-- Email: contact@bitmasterxor.dev
+- Discord: BitmasterXor
 
 ---
 
