@@ -308,14 +308,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/BitmasterXor/Delphi_Delta_ScreenShot)
-![GitHub forks](https://img.shields.io/github/forks/BitmasterXor/Delphi_Delta_ScreenShot)
-![GitHub issues](https://img.shields.io/github/issues/BitmasterXor/Delphi_Delta_ScreenShot)
-
----
-
 <div align="center">
 
 **⭐ Star this repository if you find it useful!**
