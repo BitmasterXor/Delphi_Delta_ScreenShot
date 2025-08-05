@@ -185,7 +185,7 @@ end;
 | **Network Transmission** | ~15ms | 1.2MB | Compressed delta data |
 | **Server Display Update** | ~10ms | 0.8MB | Direct bitmap assignment |
 
-*Tested on: Intel i7, 16GB RAM, 1Gbps network*
+*Tested on: AMD Ryzen 7 5800H, 32GB RAM, 1Gbps network*
 
 ---
 
