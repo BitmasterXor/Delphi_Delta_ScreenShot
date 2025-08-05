@@ -23,7 +23,6 @@ The Delphi_Delta_ScreenShot Suite is a comprehensive desktop monitoring solution
 - **📡 Server Application** - Centralized screenshot receiver with real-time display
 - **📱 Client Application** - Intelligent screenshot sender with delta compression
 - **🔍 Standalone Comparator** - Local screenshot difference analyzer
-- **✨ Bonus: TypeFX Studio** - IDE enhancement plugin with particle effects
 
 ---
 
@@ -36,7 +35,7 @@ graph TD
     C -->|Yes| D[Compare with Previous]
     C -->|No| E[Send Full Screenshot]
     D --> F[Generate Pixel Changes Only]
-    F --> G[Transmit via n/cSockets]
+    F --> G[Transmit via NetCom7 Sockets]
     E --> G
     G --> H[Server Receives Data]
     H --> I[Process & Display]
@@ -175,7 +174,8 @@ end;
 
 ---
 
-## 📈 Performance Benchmarks
+## 📈 Performance Benchmarks (Estimation)
+*Performance differs with screen sizes, hardware specifications, and network conditions*
 
 | Operation | Time (avg) | Memory Usage | Notes |
 |-----------|------------|--------------|-------|
