@@ -23,7 +23,8 @@ The Delphi_Delta_ScreenShot Suite is a comprehensive desktop monitoring solution
 - **📡 Server Application** - Centralized screenshot receiver with real-time display
 - **📱 Client Application** - Intelligent screenshot sender with delta compression
 - **🔍 Standalone Comparator** - Local screenshot difference analyzer
-
+![Server Preview](ServerPreview.png)
+![Client Preview](ClientPreview.png)
 ---
 
 ## 🏗️ Architecture
