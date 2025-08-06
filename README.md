@@ -301,7 +301,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **NetCom7 Team** - Excellent networking components for Delphi ([GitHub](https://github.com/spawn451/NetCom7))
+- **NetCom7 Enthusiast Spawn77** - Excellent networking components for Delphi ([GitHub](https://github.com/spawn451/NetCom7))
 - **Delphi Community** - Continuous inspiration and support
 - **Beta Testers** - Valuable feedback during development
 - **Open Source Contributors** - Thanks for your improvements and bug reports
